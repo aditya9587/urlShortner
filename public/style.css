@@ -1,0 +1,19 @@
+body{
+background-color: rgb(214, 192, 236);
+}
+form{
+ 
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content:center;
+  align-items: center;
+}
+h1{
+  text-align: center;
+}
+input{
+  height: 40px;
+  border: none;
+  border-radius: 20%;
+}
