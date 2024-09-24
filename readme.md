@@ -38,12 +38,12 @@ A simple URL shortener application built with EJS, Express, and MongoDB. This ap
 
 🌱 Usage
 
-Enter the original URL: On the home page, input the long URL you wish to shorten.
-Get the short URL: Once submitted, the app generates a shortened URL.
-Access the original URL: Use the shortened URL to redirect to the original page.
+- Enter the original URL: On the home page, input the long URL you wish to shorten.
+- Get the short URL: Once submitted, the app generates a shortened URL.
+- Access the original URL: Use the shortened URL to redirect to the original page.
 
 👷 Future Improvements
 
-🔍 Analytics: Add URL visit statistics to track usage.
-🔑 Authentication: Allow users to create accounts and manage their shortened URLs.
-📝 Custom Aliases: Allow users to create custom short URLs 
+- 🔍 Analytics: Add URL visit statistics to track usage.
+- 🔑 Authentication: Allow users to create accounts and manage their shortened URLs.
+- 📝 Custom Aliases: Allow users to create custom short URLs 
